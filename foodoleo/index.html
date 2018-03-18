@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Food Oloi</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="style.css">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+</head>
+<body>
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
+  <div class="w3-container">
+    <h2 class="w3-padding-64"><b>FoodOloi</b></h2>
+  </div>
+  <div class="w3-bar-block">
+    <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
+    <a href="#showcase" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">What we can avoid</a> 
+    <a href="#services" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">How is it possible?</a> 
+    <a href="#designers" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">About us</a>
+    <a href="#packages" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Donate</a>
+    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
+  </div>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-red w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-red w3-margin-right" onclick="w3_open()">☰</a>
+  <span>Food Oloi</span>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <div class="w3-container" style="margin-top:80px" id="showcase">
+    <h1 class="w3-jumbo"><b>Let's Delete the Hunger!</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b>Our utmost efforts is to avoid this</b></h1>
+    <!--<hr style="width:50px;border:5px solid red" class="w3-round">-->
+  </div>
+  
+  <!-- Photo grid (modal) -->
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="http://cdn-images.rtp.pt/icm/images/bd/bd225b1c3d8662d345494e15c1507357?1200&rect=0,4,624,342&w=800&q=75" style="width:100%" onclick="onClick(this)" alt="Concrete meets bricks">
+      <img src="https://s3.ap-southeast-1.amazonaws.com/cdn.deccanchronicle.com/sites/default/files/waste_food_0.jpg" style="width:100%" onclick="onClick(this)" alt="Light, white and tight scandinavian design">
+      <img src="http://www.gudstory.com/wp-content/uploads/2017/03/There-are-rays-of-hopes.jpg" style="width:100%" onclick="onClick(this)" alt="White walls with designer chairs">
+    </div>
+
+    <div class="w3-half">
+      <img src="http://funds.gfmcdn.com/5239152_1436490647.0932.jpg" style="width:100%" onclick="onClick(this)" alt="Windows for the atrium">
+      <img src="http://cloud.millenniumpost.in/192861IOnNvoyRp0uvUvGZRfgSndVMQasLPgP4831151/85725jpg.jpg" style="width:100%" onclick="onClick(this)" alt="Bedroom and office in one space">
+      <img src="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2012/20120223174847-1_0.jpg?itok=zK9mXrYQ" style="width:100%" onclick="onClick(this)" alt="Scandinavian design">
+    </div>
+  </div>
+
+  <!-- Modal for full size images on click-->
+  <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xxlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
+  <!-- Services -->
+  <div class="w3-container" id="services" style="margin-top:75px; padding-right: 100px;">
+    <h1 class="w3-xxxlarge w3-text-red"><b>How is it possible? Have a look.</b></h1>
+    <!--<hr style="width:50px;border:5px solid red" class="w3-round">-->
+    <div id ="div11">
+    <p><a href = "request_form.html" class="block1" id = "how1">Click here to give info about excess food left</a></p>
+    <p><img src = "a1.jpg" class = "img1"></p>
+    <p class="block1">Nearest NGO will contact you as soon as possible</p>
+    <p><img src = "a1.jpg" class = "img1"></p>
+    <p class="block1">Their volunteers will perform the quality check on the spot</p>
+    <p><img src = "a1.jpg" class = "img1"></p>
+    <p class="block1">Once it's given Green signal, food will be picked up by them to feed the poor hungry stomach</p>
+    </div>
+  </div>
+  
+  <!-- About us -->
+  <div class="w3-container" id="designers" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>About us</b></h1>
+    <!--<hr style="width:50px;border:5px solid red" class="w3-round">-->
+    <p>We are not-for-profit group who work for sociak welfare.</p>
+    <p>Our aim is to minimize edible food wastage and make it available to the needy ones who, ufortunately, couldn't have it</p>
+  </div>
+
+  
+  <!-- Donation / Pricing Tables -->
+  <div class="w3-container" id="packages" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Donate</b></h1>
+    <!--<hr style="width:50px;border:5px solid red" class="w3-round">-->
+    <p>We use money for shipping expenses so as to ensure proper arrival of food at hunger spot. Also, it is the only source which keeps this site live. </p>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half w3-margin-bottom">
+      <ul class="w3-ul w3-light-grey w3-center">
+        <li class="w3-dark-grey w3-xlarge w3-padding-32">Enter amount</li>
+        <li class="w3-padding-16">
+          <form action = "donate.php" method="post">
+            <input type = "text" placeholder="Rupees.." id = "d2">
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+          <input type="submit" value="Donate" id = "d1">
+          </form>
+        </li>
+      </ul>
+    </div>
+  </div>
+  
+  <!-- Contact -->
+  <div class="w3-container" id="contact" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Contact</b></h1>
+    <!--<hr style="width:50px;border:5px solid red" class="w3-round">-->
+    <p>Do you want to be a part of noble cause, then come forward and volunteer to feed a poor hungry.</p>
+    <p>Your efforts will never be forgotten!</p>
+    <form action="/action_page.php" target="_blank"  style="float: left;">
+      <div class="w3-section">
+        <label>Name</label>
+        <input class="w3-input w3-border" type="text" name="Name" required>
+      </div>
+      <div class="w3-section">
+        <label>Email</label>
+        <input class="w3-input w3-border" type="text" name="Email" required>
+        <label>Contact No</label>
+        <input class="w3-input w3-border" type="text" name="Contact_no" required>
+      </div>
+      <div class="w3-section">
+        <label>Message</label>
+        <input class="w3-input w3-border" type="text" name="Message" required>
+      </div>
+      <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom"">Send Message</button>
+    </form>  
+  </div>
+
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">
+  <img src = "google-play-badge.png" style="width:30%; height:50%; float: right;">
+  </p></div>
+
+
+
+</body>
+</html>

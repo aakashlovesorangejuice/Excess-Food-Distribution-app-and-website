@@ -1,0 +1,86 @@
+*,html{
+    margin:0px;
+}
+
+body{
+    background-color: #ffffe6;
+}
+#left{
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-width: 5px;
+    border-style: groove;
+    text-align: center;
+}
+
+#map{
+     width: 50%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 15px;
+    border-width: 5px;
+    border-style: groove;
+}
+
+input[type=text], select {
+    width: 60%;
+    padding: 8px 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: #cc5200;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+#h31{
+    text-align: center;
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #e62e00;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+
+label{
+    font-family: Times New Roman;
+    font-size: 20px;
+}
+
+#pincode{
+    width: 30%;
+    padding: 4px 8px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: Arial;
+    font-size: 20px;
+}

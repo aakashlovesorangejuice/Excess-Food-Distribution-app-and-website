@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel = "stylesheet" href = "style_form.css">
+<script src="map.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBrcA6zPabWsdkiReL62LPv86wG3cpkLcc&callback=myMap" async defer></script>
+<script scr="json.js"></script>
+</head>
+<body>
+    <div id = "container">
+<h3 id = "h31">Request Form</h3>
+
+<div id ="left">
+  <form action ="rform.php" method = "post">
+    <p><label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name.."></p>
+
+    <p><label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name.."></p>
+
+    <p><label for="state">State</label>
+    <input type="text" id="state" name="state" list="st" placeholder="Enter state..">
+    <datalist id="st">
+      
+    </datalist>
+    </p>
+
+    <p><label for="city/district">City/District</label>
+    <input type="text" name="c/d" placeholder="Your city/distt.."></p>
+
+    <p><label for="address">Address</label></p>
+    <p><input type="text" name="line1" placeholder="Address line 1"></p>
+    <p><input type="text" name="line2" placeholder="Address line 1"></p>
+
+    <p><label for="pincode">Pincode</label>
+    <input type="text" name="pin" id="pincode" placeholder="Eg: 110021"></p>
+  
+    <p><input type="submit" value="Submit" ></p>
+  </form>
+</div>
+<div id="map" style="width:500px;height:500px"></div>
+</div>
+</body>
+</html>

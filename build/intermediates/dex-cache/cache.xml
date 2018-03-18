@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-dae3069ec2eb0b40f67d7aa78f78c5294e1e5b7b.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-3987f2cb8ae0c856830ff17e57e4d8912ad2ad6f.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-6139bf48c5a314865b9b840e006907c7e3761a6b.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-abd8d03a811a363ae4a73e5e1c69589277f0a797.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-686074a83ed19e71777cf4db2084987aad0d3512.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-b77e691c10d87cfd602bbf22eab7fe2628b5f035.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-8bc887549c8eca319b098a7e3c4722b11902d233.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-a4276786cc8b79fdd148957fa15df18d2b6b231a.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-57d4749b446fd6b53cbbb371ac6fa3d9df69c786.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-97f3e18a588d5f76130bf12530ddab35f18b070f.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-9cf267655fcde9087e7d75dab1a1d3b35582c9db.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-9fab3962c1a348bd08a9b703d4bde2a2b156e397.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-0c6dff7e0b0c3edbbb693ef75e95d3ccd9b68c92.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-2db02afe6f831e424ec050d269390807f2005eda.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-fd10a161e9a3ae82f3e63c789cff1fbb8e607098.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-8e76abfa0f893cb7efe1a1f97b131a07f5b0edb1.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-adf43c83c88e48e6ce0aedd9c8fd2716fea0e1de.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-877aefecc58c2088c38d8d88427b0ec004dfb7d6.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-5c10d1aa884845f7a6b099437075a59e5d464248.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-3d8ac3c859a935a6ddc0d3a0bb6da3eb04c8d3ae.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-191f43fcac0fc95ac98b8b2ba67b992e5140be52.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-7597e48222415cf1638e7f00ed60ce8d58a7a38e.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-91b203e28c0b977f169e5f29c2b5d97ef03c7684.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-b47f73b5cda8dd9586497e5f16245b896650de2b.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-3130413e367be0dadc76fab240f1fdd8e9a4ad11.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-0467f3319121f256638a1a0a2566ac5bcc2f05b2.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-096437c777c4683144ea65d4e7e5c54be75889b0.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ee3d2ab9afb6e90aa61d1ab17e41bdf490077674.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-6293d776305f5856cabd20f525e606d6608d01af.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-c88bc5900f00919f541d2081de98d04e8608f554.jar" />
+    </item>
+    <item
+        jar="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/sanjaysinghbhandari/Desktop/No-Food-Waste-master/android/app/build/intermediates/pre-dexed/debug/classes-007cd6bb25d0e3ee88ab881e80aedb744a4c824b.jar" />
+    </item>
+
+</items>
